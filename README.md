@@ -23,67 +23,67 @@ Open terminal and try execute some kali linux commands
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
 ## OUTPUT
-<img width="1689" height="931" alt=" (2)" src="https://github.com/user-attachments/assets/048b57ba-328a-43ba-92a9-98ca647ed348" />
+
+
+<img width="707" height="897" alt="image" src="https://github.com/user-attachments/assets/8edb79d5-a692-4103-b804-aebe8093c2aa" />
 
 
 
 The command sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
 ## OUTPUT
-<img width="1860" height="845" alt="bd4f3aab-d73b-4883-a4c4-76763dd16357" src="https://github.com/user-attachments/assets/a19510f5-7155-4c1b-90ea-dd3329f340de" />
 
-
+<img width="413" height="247" alt="image" src="https://github.com/user-attachments/assets/2f130648-b51d-43c9-87ae-3e2bd032336e" />
 
 
 It displays the following menu and select 2 for Website Attack Vectors:
 ## OUTPUT
-<img width="547" height="211" alt="595846254-dd3a38ee-b58d-4f8b-bf2a-530a15bde52e" src="https://github.com/user-attachments/assets/7372142d-111e-4376-a90c-bb0f7fb13e54" />
 
+<img width="865" height="623" alt="image" src="https://github.com/user-attachments/assets/9e3e9509-4754-4533-bf71-719039526adb" />
 
 
 
 The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
 ## OUTPUT
-<img width="1920" height="307" alt="595845317-32d7b1cc-5ffe-49fa-b674-8989d44434dc" src="https://github.com/user-attachments/assets/70ab6b66-897b-4e8d-a203-f24b1bcd0b8b" />
 
 
+1<img width="705" height="356" alt="image" src="https://github.com/user-attachments/assets/c7f4c9cc-ec8d-412d-b94e-3b386b80155a" />
 
 It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 ## OUTPUT
 
-<img width="1920" height="635" alt="595845649-cc5a959a-3f62-4fc1-bf00-064d0de74d72" src="https://github.com/user-attachments/assets/24d5910d-93a1-4dcd-990b-4cfc4b139092" />
 
-
+<img width="840" height="386" alt="image" src="https://github.com/user-attachments/assets/96cb0397-dfeb-49e1-b610-b346ca591809" />
 
 
 It shows the following screen in which the option Google can be selected:
 ## OUTPUT
-<img width="1909" height="824" alt="06b79a6b-c508-4f6a-9db3-dabb764ae330" src="https://github.com/user-attachments/assets/966c21db-9aee-4920-bc60-6a9ea64e438f" />
 
+<img width="837" height="415" alt="image" src="https://github.com/user-attachments/assets/7a8d4f2e-6894-43c7-bf2e-4881fa510d12" />
 
 
 
 
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
+## OUTPUT
 
-
+<img width="840" height="167" alt="image" src="https://github.com/user-attachments/assets/aa1618c2-465b-40ad-a7ff-29f0dcfdc414" />
 
 
 
 In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address), the fake Google page is displayed. The victim can enter the username and password
 ## OUTPUT
-<img width="902" height="1024" alt="_img_12021255784463804763" src="https://github.com/user-attachments/assets/6fa0a257-b9ce-4dab-938e-0f85bc6cb60d" />
-
 
 
 SET logs the information regarding the Google credentials:
 ## OUTPUT
 
-
-<img width="1024" height="563" alt="_img_11706331084865133380" src="https://github.com/user-attachments/assets/df7c630b-0d84-40f7-acf7-621e36baf7e1" />
-
+<img width="1007" height="868" alt="image" src="https://github.com/user-attachments/assets/ef1fe31e-8736-4dd0-95a6-5f4d59ff2448" />
 
 
+SET logs the information in the xml file under /root/.set directory:
+## OUTPUT
 
+<img width="1566" height="451" alt="image" src="https://github.com/user-attachments/assets/8d4eb19a-5485-40da-96f6-e29d6d1f69f1" />
 
 
 
